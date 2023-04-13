@@ -10,4 +10,4 @@
 
 ## 2023
 
-1. [Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices], arXiv, Yan Sun, Yifan Yuan, Zeduo Yu, Reese Kuper, Ipoom Jeong, Ren Wang, Nam Sung Kim
+1. [Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices](https://arxiv.org/pdf/2303.15375.pdf), arXiv, Yan Sun, Yifan Yuan, Zeduo Yu, Reese Kuper, Ipoom Jeong, Ren Wang, Nam Sung Kim
