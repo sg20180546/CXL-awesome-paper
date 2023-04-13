@@ -6,7 +6,7 @@
 
 2. [Direct Access, High-Performance Memory Disaggregation with DirectCXL](https://www.usenix.org/system/files/atc22-gouk.pdf), USENIX ATC '22, Donghyun Gouk, Sangwon Lee, Miryeong Kwon, and Myoungsoo Jung
 
-3. [Compute Express Link®: An open industry-standard interconnect enabling heterogeneous data-centric computing], IEEE HOTI '22, Debendra Das Sharma 
+3. [Compute Express Link®: An open industry-standard interconnect enabling heterogeneous data-centric computing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9912551&casa_token=V0ffDEN4NzMAAAAA:0nfd_0LNMNc54N-kTMpehjWkTbqUIv23a0dKu6ZPV8ABiwtf_kgV0uFZIR3ERzha6L_63SDGeg), IEEE HOTI '22, Debendra Das Sharma 
 
 ## 2023
 
