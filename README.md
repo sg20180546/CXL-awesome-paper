@@ -8,8 +8,10 @@
 
 3. [Compute Express Link®: An open industry-standard interconnect enabling heterogeneous data-centric computing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9912551&casa_token=V0ffDEN4NzMAAAAA:0nfd_0LNMNc54N-kTMpehjWkTbqUIv23a0dKu6ZPV8ABiwtf_kgV0uFZIR3ERzha6L_63SDGeg), IEEE HOTI '22, Debendra Das Sharma 
 
+4. [TPP: Transparent Page Placement for CXL-Enabled Tiered Memory](https://arxiv.org/pdf/2206.02878.pdf), arXiv, Hasan Al Maruf∗, Hao Wang†, Abhishek Dhanotia†, Johannes Weiner†, NiketAgarwal†, Pallab Bhattacharya†, Chris Petersen†, Mosharaf Chowdhury∗, Shobhit Kanaujia†, Prakash Chauhan
+
 ## 2023
 
 1. [Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices](https://arxiv.org/pdf/2303.15375.pdf), arXiv, Yan Sun, Yifan Yuan, Zeduo Yu, Reese Kuper, Ipoom Jeong, Ren Wang, Nam Sung Kim
 
-2. [TPP: Transparent Page Placement for CXL-Enabled Tiered Memory](https://arxiv.org/pdf/2206.02878.pdf), arXiv Hasan Al Maruf∗, Hao Wang†, Abhishek Dhanotia†, Johannes Weiner†, NiketAgarwal†, Pallab Bhattacharya†, Chris Petersen†, Mosharaf Chowdhury∗, Shobhit Kanaujia†, Prakash Chauhan
+
