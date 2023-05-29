@@ -14,4 +14,8 @@
 
 1. [Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices](https://arxiv.org/pdf/2303.15375.pdf), arXiv, Yan Sun, Yifan Yuan, Zeduo Yu, Reese Kuper, Ipoom Jeong, Ren Wang, Nam Sung Kim
 
+2. [Cache in Hand: Expander-Driven CXL Prefetcher for Next Generation CXL-SSD](https://www.hotstorage.org/2023/accepted.html), HotStorage '23, Miryeong Kwon, Sangwon Lee, Myoungsoo Jung, Panmnesia and KAIST
 
+3. [Failure Tolerant Training with Persistent Memory Disaggregation over CXL](https://arxiv.org/pdf/2301.07492.pdf), IEEE Micro '23, Miryeong Kwon, Junhyeok Jang, Hanjin Choi, Sangwon Lee, Myoungsoo Jung
+
+4. [Training Resilience with Persistent Memory Pooling using CXL Technology](https://hcm-workshop.github.io/doc/extended-abstract-jhjang.pdf), HPCA '23, Miryeong Kwon, Junhyeok Jang, Hanjin Choi, Sangwon Lee, Myoungsoo Jung
