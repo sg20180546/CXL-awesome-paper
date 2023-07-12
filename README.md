@@ -25,3 +25,5 @@
 6. [Failure Tolerant Training With Persistent Memory Disaggregation Over CXL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10018437&casa_token=7RcT9EIypx8AAAAA:h3U2bhoIXiE3-2rozUQKheRzOcEuGhbt3jZ4deJguJyB3VvNB38TNrJtqNcxlvsZoWN-qX46&tag=1), IEEE Micro '23, Miryeong Kwon, Junhyeok Jang, Hanjin Choi, Sangwon Lee, and Myoungsoo Jung
 
 7. [Memory Pooling with CXL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10018233&casa_token=oGgU5nKf9zUAAAAA:NLzHa-UGDu1wg1iFjERpvp09QDoMwZmKdDQgIePOgln_K-ukXyQ230c50hDasermb82y8fW_), IEEE Micro '23, Donghyun Gouk, Miryeong Kwon, Hanyeoreum Bae, Sangwon Lee, and Myoungsoo Jung,
+
+8. [Overcoming the Memory Wall with CXL-Enabled SSDs](https://www.usenix.org/system/files/atc23-yang-shao-peng.pdf), Shao-Peng Yang, Syracuse University; Minjae Kim, DGIST; Sanghyun Nam, Soongsil University; Juhyung Park, DGIST; Jin-yong Choi and Eyee Hyun Nam, FADU Inc.; Eunji Lee, Soongsil University; Sungjin Lee, DGIST; Bryan S. Kim, Syracuse University
